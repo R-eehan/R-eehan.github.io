@@ -1,0 +1,7 @@
+#wfx-end-popup-yes-button > div > svg {
+    fill:#7CFC00 !important;
+}
+
+#wfx-end-popup-no-button > div > svg {
+    fill:#FF0000 !important;
+}
