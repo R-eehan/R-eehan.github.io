@@ -1,7 +1,3 @@
-#wfx-end-popup-yes-button > div > svg > path {
-    fill:#7CFC00 !important;
-}
-
-#wfx-end-popup-no-button > div > svg > path {
-    fill:#FF0000 !important;
+table[data-wfx-id="wfx-self-help-widget"] div[data-wfx-id="expandable-content"] {
+    font-weight: bold !important;
 }
