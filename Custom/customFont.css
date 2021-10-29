@@ -1,4 +1,7 @@
 div[id*="wfx-tooltip"]{
     font: Tangerine !important;
-    font-family: Tangerine !important;
+}
+
+table[data-wfx-id="wfx-self-help-widget"] div[data-wfx-id="expandable-content"] {
+    font-weight: bold !important;
 }
