@@ -1,4 +1,4 @@
 div[id*="wfx-tooltip"]{
-    font: Tangerine;
-    font-family: Tangerine;
+    font: Tangerine !important;
+    font-family: Tangerine !important;
 }
