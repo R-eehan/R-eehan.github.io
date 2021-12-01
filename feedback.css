@@ -1,4 +1,4 @@
-table[data-wfx-id="wfx-self-help-widget"] div[data-wfx-id="expandable-content"] {
+table[data-wfx-id="wfx-self-help-widget"] [data-wfx-id="text-header"] div[data-wfx-id="expandable-content"] {
     font-weight: bold !important;
     text-decoration: underline !important;
 }
